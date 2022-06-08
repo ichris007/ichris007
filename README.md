@@ -1,6 +1,5 @@
-### 欢迎光临！我不是程序猿，是一名猎头，是程序猿的职业经纪人 👋
+### 不是程序猿，是一名猎头，致力做程序猿的职业经纪人 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/ichris007)
 
 #### 联系我
 Linkedin：https://www.linkedin.com/in/chris-pei/  脉脉：https://maimai.cn/profile/detail?dstu=30307015
