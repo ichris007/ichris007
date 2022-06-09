@@ -21,7 +21,7 @@ He is an Executive Search Consultant with 11 years of executive search and 4 yea
 
 #### 免费提供：
 - 个人职业发展规划/咨询
-- 简历修改
+- 简历修改建议
 - 职场经验分享
 
 --------
