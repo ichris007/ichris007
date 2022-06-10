@@ -26,6 +26,7 @@ He is an Executive Search Consultant with 11 years of executive search and 4 yea
 
 --------
 ### ![ichris007](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`ichris007`-github-readme)
+
 我是一个手机摄影者，记录生活总的美好事物。
 
 我喜欢写字，曾经运营微信公众号和Blog。
