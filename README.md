@@ -1,7 +1,7 @@
 ### 不是程序猿，是一名猎头，致力做程序猿的职业经纪人 👋
 
 
-#### 联系我
+#### 来这里可以找到我
 Linkedin：https://www.linkedin.com/in/chris-pei/  脉脉：https://maimai.cn/profile/detail?dstu=30307015
 
 微信：chris-p
