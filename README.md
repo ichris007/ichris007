@@ -24,6 +24,9 @@ He is an Executive Search Consultant with 11 years of executive search and 4 yea
 - 简历修改建议
 - 职场经验分享
 
+### 关键词
+互联网 | 电商 | 社交 | 教育 | 游戏 | 金融 | 物流 | 本地生活 | 新零售 | 内容社区 | 短视频 | AI | 人工智能 | 机器学习 | 深度学习 | 大数据 | 云计算 | 物联网 | 工业互联网 | 智能硬件 | 自动驾驶 | 无人车 | 无人机 | Artificial Intelligence | NLP | Natural Language Processing | Machine Learning | ML | DL | Deep Learning | Big data | Cloud Computing | IoT | IIoT | Intelligent Hardware | Autonomous Vehicles | Self-driving Automobile | UAV | Drone | 算法 | Algorithm | AML | Python
+
 --------
 ### ![ichris007](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`ichris007`-github-readme)
 
