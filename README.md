@@ -8,12 +8,12 @@
 微信：chris-p
 
 #### 个人简介
-    - 13年高端猎头 + 4年HR管理，曾创过几次业。专注在互联网/人工智能/大数据/云计算等领域，同时关注AIoT/IIoT/工业互联网/生命科学领域。
+    - 14年高端猎头 + 4年HR管理，曾创过几次业。专注在互联网/人工智能/大数据/云计算等领域，同时关注AIoT/IIoT/工业互联网/生命科学领域。
     - 长期为跨国企业/上市公司/独角兽/行业新锐公司等寻访高管和关键人才。
     - 同时，也和知名CV合作，帮助他们为portfolio寻访高管和核心人才。
 
 
-He is an Executive Search Consultant with 11 years of executive search and 4 years of corporate HR experience. He has accumulated rich successful cases in Internet, AI, Big Data and Cloud Computing area, and deeply understands the industry talent traits and talent mobility trends including technology, product, operation, marketing, sales and functions.. He understands how to meet clients' needs and gives constructive advice on organizational structure and talent hiring. He has worked with companies including MNCs, public companies, unicorns and start-ups. He also works with well-known VCs to help their portfolios find executives and core talents.
+He is an Executive Search Consultant with 14 years of executive search and 4 years of corporate HR experience. He has accumulated rich successful cases in Internet, AI, Big Data and Cloud Computing area, and deeply understands the industry talent traits and talent mobility trends including technology, product, operation, marketing, sales and functions.. He understands how to meet clients' needs and gives constructive advice on organizational structure and talent hiring. He has worked with companies including MNCs, public companies, unicorns and start-ups. He also works with well-known VCs to help their portfolios find executives and core talents.
 
 #### 付费服务：
     - 企业人才配置与招募策略
