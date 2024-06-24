@@ -5,7 +5,7 @@
 
 [我的Linkedin](https://www.linkedin.com/in/chris-pei/ "Chris Pei")      [我的脉脉](https://maimai.cn/profile/detail?dstu=30307015 "裴小科")
 
-微信：chris-p
+微信：chris-p（注明来自GitHub）
 
 #### 个人简介
     - 14年高端猎头 + 4年HR管理，曾创过几次业。专注在互联网/人工智能/大数据/云计算等领域，同时关注AIoT/IIoT/工业互联网/生命科学领域。
