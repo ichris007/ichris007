@@ -1,7 +1,12 @@
 ### 不是程序猿，是一名猎头，致力做程序猿的职业经纪人 👋
 
 #### 来这里可以找到我
-[我的Linkedin](https://www.linkedin.com/in/chris-pei/ "Chris Pei")      [我的脉脉](https://maimai.cn/profile/detail?dstu=30307015 "裴小科")
+
+<p> 
+  <a href="https://www.linkedin.com/in/chris-pei/ "Chris Pei""> <img src="https://github.com/ichris007/ichris007/blob/main/images/linkedin.png" height="25px" alt="Chris Pei" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/007_chris"> <img src="https://github.com/ichris007/ichris007/blob/main/images/x.png" height="25px" alt="@007_chris"></a>&nbsp;&nbsp;
+  <a href="https://maimai.cn/profile/detail?dstu=30307015 "裴小科""><img src="https://github.com/ichris007/ichris007/blob/main/images/maimai.png" alt="裴小科" height="25px"></a>
+</p> 
 
 ### 行业动态/市场信息
 [具身智能(Embodied AI)技术全面综述：感知、交互、规划、仿真、挑战、机遇](https://github.com/ichris007/ichris007/blob/main/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD(Embodied%20AI)%E6%8A%80%E6%9C%AF%E5%85%A8%E9%9D%A2%E7%BB%BC%E8%BF%B0%EF%BC%9A%E6%84%9F%E7%9F%A5%E3%80%81%E4%BA%A4%E4%BA%92%E3%80%81%E8%A7%84%E5%88%92%E3%80%81%E4%BB%BF%E7%9C%9F%E3%80%81%E6%8C%91%E6%88%98%E3%80%81%E6%9C%BA%E9%81%87.md)
