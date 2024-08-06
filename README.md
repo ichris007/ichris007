@@ -3,9 +3,9 @@
 #### 来这里可以找到我
 
 <p> 
-  <a href="https://www.linkedin.com/in/chris-pei/" _blank> <img src="https://github.com/ichris007/ichris007/blob/main/images/linkedin.png" height="25px" alt="Chris Pei" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/007_chris" _blank> <img src="https://github.com/ichris007/ichris007/blob/main/images/x.png" height="25px" alt="@007_chris"></a>&nbsp;&nbsp;
-  <a href="https://maimai.cn/profile/detail?dstu=30307015" _blank><img src="https://github.com/ichris007/ichris007/blob/main/images/maimai.png" alt="裴小科" height="25px"></a>
+  <a href="https://www.linkedin.com/in/chris-pei/" target="_blank"> <img src="https://github.com/ichris007/ichris007/blob/main/images/linkedin.png" height="25px" alt="Chris Pei" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/007_chris" target="_blank"> <img src="https://github.com/ichris007/ichris007/blob/main/images/x.png" height="25px" alt="@007_chris"></a>&nbsp;&nbsp;
+  <a href="https://maimai.cn/profile/detail?dstu=30307015" target="_blank"><img src="https://github.com/ichris007/ichris007/blob/main/images/maimai.png" alt="裴小科" height="25px"></a>
 </p> 
 
 ### 行业动态/市场信息
