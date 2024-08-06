@@ -293,8 +293,7 @@ Majumdar等人\[266\]探索了使用LLMs和VLMs进行情景记忆EQA(EM-EQA)任�
 
 (完)
 
----
-参考资料 <br>
+## 参考资料
 标题：Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI <br>
 作者：Yang Liu, Weixing Chen, Yongjie Bai, Guanbin Li, Wen Gao, Fellow, IEEE, Liang Lin, Fellow, IEEE <br>
 单位：中山大学计算机科学与工程学院，鹏城实验室，北京大学数字媒体研究所 <br>
