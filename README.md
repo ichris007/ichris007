@@ -25,6 +25,9 @@ He is an Executive Search Consultant with 14 years of executive search and 4 yea
 
     联系我时，请注明来自Github，你的需求将会被优先对接。期待与你的连结！
 
+### 行业动态/市场信息
+[具身智能(Embodied AI)技术全面综述：感知、交互、规划、仿真、挑战、机遇](https://github.com/ichris007/ichris007/blob/main/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD(Embodied%20AI)%E6%8A%80%E6%9C%AF%E5%85%A8%E9%9D%A2%E7%BB%BC%E8%BF%B0%EF%BC%9A%E6%84%9F%E7%9F%A5%E3%80%81%E4%BA%A4%E4%BA%92%E3%80%81%E8%A7%84%E5%88%92%E3%80%81%E4%BB%BF%E7%9C%9F%E3%80%81%E6%8C%91%E6%88%98%E3%80%81%E6%9C%BA%E9%81%87.md)
+
 ### 关键词
 互联网 | AI | 人工智能 | AI制药 | AI生物 | 电商 | 社交 | 教育 | 游戏 | 金融 | 物流 | 本地生活 | 新零售 | 内容社区 | 短视频 | 机器学习 | 深度学习 | 大数据 | 云计算 | 物联网 | 工业互联网 | 智能硬件 | 自动驾驶 | 无人车 | 无人机 | Artificial Intelligence | NLP | Natural Language Processing | Machine Learning | ML | DL | Deep Learning | Big data | Cloud Computing | IoT | IIoT | Intelligent Hardware | Autonomous Vehicles | Self-driving Automobile | UAV | Drone | 算法 | Algorithm | AML | Python | Drug Discovery | AI Drug |
 
