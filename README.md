@@ -11,13 +11,19 @@
     <img src="https://github.com/ichris007/ichris007/blob/main/images/maimai.png" alt="裴小科" height="25px"></a>
 </p>
 
-### 行业动态/市场信息
+---
+
+
+
+### 行业动态/信息/知识
 
 [具身智能(Embodied AI)技术全面综述：感知、交互、规划、仿真、挑战、机遇](https://github.com/ichris007/ichris007/blob/main/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD(Embodied%20AI)%E6%8A%80%E6%9C%AF%E5%85%A8%E9%9D%A2%E7%BB%BC%E8%BF%B0%EF%BC%9A%E6%84%9F%E7%9F%A5%E3%80%81%E4%BA%A4%E4%BA%92%E3%80%81%E8%A7%84%E5%88%92%E3%80%81%E4%BB%BF%E7%9C%9F%E3%80%81%E6%8C%91%E6%88%98%E3%80%81%E6%9C%BA%E9%81%87.md)
 
 ### Awesome Robotics
 
 [**Awesome Robotics**](https://github.com/ichris007/ichris007/blob/main/awesome-robotics.md) is a continuously updated list of Software, Libraries, Papers, Conferences, Competitions and other resources for robotics.
+
+---
 
 ### 个人简介
 
