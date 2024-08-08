@@ -55,7 +55,7 @@ He is an Executive Search Consultant with 13 years of executive search and 4 yea
 
 ---
 
-一个手机摄影者，记录生活中的美好事物。
+一个手机摄影者，记录生活中的美好事物。 
 
 ""喜欢写字，微信公众号主理人。
 
