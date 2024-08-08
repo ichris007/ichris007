@@ -13,8 +13,6 @@
 
 ---
 
-
-
 ### 行业动态/信息/知识
 
 [具身智能(Embodied AI)技术全面综述：感知、交互、规划、仿真、挑战、机遇](https://github.com/ichris007/ichris007/blob/main/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD(Embodied%20AI)%E6%8A%80%E6%9C%AF%E5%85%A8%E9%9D%A2%E7%BB%BC%E8%BF%B0%EF%BC%9A%E6%84%9F%E7%9F%A5%E3%80%81%E4%BA%A4%E4%BA%92%E3%80%81%E8%A7%84%E5%88%92%E3%80%81%E4%BB%BF%E7%9C%9F%E3%80%81%E6%8C%91%E6%88%98%E3%80%81%E6%9C%BA%E9%81%87.md)
@@ -57,10 +55,10 @@ He is an Executive Search Consultant with 13 years of executive search and 4 yea
 
 ---
 
-一个手机摄影者，记录生活中的美好事物。`<br>`
-喜欢写字，微信公众号主理人。`<br>`
-践行公益，曾连续5年参与城市流动儿童公益项目。`<br>`
-喜欢分享，帮助他人，猎头工作可以实现这些。`<br>`
-空闲的时候，喜欢看TED，读历史，追美剧，弄娃。`<br>`
+一个手机摄影者，记录生活中的美好事物。
+喜欢写字，微信公众号主理人。
+践行公益，曾连续5年参与城市流动儿童公益项目。
+喜欢分享，帮助他人，猎头工作可以实现这些。
+空闲的时候，喜欢看TED，读历史，追美剧，弄娃。
 
-`<a href="http://s05.flagcounter.com/more/AJU"><img src="https://s05.flagcounter.com/count2/AJU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">``</a>`
+`<a href="http://s05.flagcounter.com/more/AJU"><img src="https://s05.flagcounter.com/count2/AJU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>`
