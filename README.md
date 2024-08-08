@@ -19,7 +19,7 @@
 
 ### Awesome Robotics
 
-[**Awesome Robotics**](https://github.com/ichris007/ichris007/blob/main/awesome-robotics.md) is a continuously updated list of Software, Libraries, Papers, Conferences, Competitions and other resources for robotics.
+[**Awesome Robotics**](https://github.com/ichris007/Awesome-Robotics) is a continuously updated list of Software, Libraries, Papers, Conferences, Competitions and other resources for robotics.
 
 ---
 
