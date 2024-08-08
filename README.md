@@ -63,6 +63,7 @@ He is an Executive Search Consultant with 13 years of executive search and 4 yea
 
 喜欢分享，帮助他人，猎头工作可以实现这些。
 
-空闲的时候，喜欢看TED，读历史，追美剧，弄娃。
+喜欢看TED，读历史，追美剧，弄娃。
+
 
 `<a href="http://s05.flagcounter.com/more/AJU"><img src="https://s05.flagcounter.com/count2/AJU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">""</a>`
