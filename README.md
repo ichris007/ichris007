@@ -12,12 +12,11 @@
 </p>
 
 ---
-
-### 行业动态/信息/知识
+<h2 align="center">行业动态/信息/知识</h2>
 
 [具身智能(Embodied AI)技术全面综述：感知、交互、规划、仿真、挑战、机遇](https://github.com/ichris007/ichris007/blob/main/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD(Embodied%20AI)%E6%8A%80%E6%9C%AF%E5%85%A8%E9%9D%A2%E7%BB%BC%E8%BF%B0%EF%BC%9A%E6%84%9F%E7%9F%A5%E3%80%81%E4%BA%A4%E4%BA%92%E3%80%81%E8%A7%84%E5%88%92%E3%80%81%E4%BB%BF%E7%9C%9F%E3%80%81%E6%8C%91%E6%88%98%E3%80%81%E6%9C%BA%E9%81%87.md)
 
-### Awesome Robotics
+<h2 align="center">Awesome Robotics</h2>
 
 [**Awesome Robotics**](https://github.com/ichris007/Awesome-Robotics) is a continuously updated list of Software, Libraries, Papers, Conferences, Competitions and other resources for robotics.
 
@@ -30,18 +29,10 @@
 - 与知名VC合作，帮助他们为portfolio寻访高管和核心人才。
 - 服务区域：中国、美国、加拿大和东南亚。
 
+| 付费服务 | 免费提供 |
+| -------- | -------- |
+| - 企业人才配置与招募策略<br> - 高端人才寻访<br> - Talent Mapping | - 个人职业发展规划/咨询<br> - 简历修改建议<br> - 职场经验分享 |
 
-#### 付费服务：
-
-- 企业人才配置与招募策略
-- 高端人才寻访
-- Talent Mapping
-
-#### 免费提供：
-
-- 个人职业发展规划/咨询
-- 简历修改建议
-- 职场经验分享
 
 ---
 
