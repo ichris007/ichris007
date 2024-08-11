@@ -1,12 +1,14 @@
 ![](https://github.com/ichris007/ichris007/blob/main/images/github_banner.png)
 
-<p> 
+<p align="center"> 
   <a href="https://www.linkedin.com/in/chris-pei/" target="_blank">
-    <img src="https://github.com/ichris007/ichris007/blob/main/images/linkedin.png" height="25px" alt="Chris Pei" /></a>  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"></a>
   <a href="https://x.com/007_chris" target="_blank">
-    <img src="https://github.com/ichris007/ichris007/blob/main/images/x.png" height="25px" alt="@007_chris"></a>  
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" height="30px"></a>
   <a href="https://maimai.cn/profile/detail?dstu=30307015" target="_blank">
-    <img src="https://github.com/ichris007/ichris007/blob/main/images/maimai.png" alt="裴小科" height="25px"></a>
+    <img src="https://img.shields.io/badge/Maimai-1877F2?style=for-the-badge&logo=maimai&logoColor=white" height="30px"></a>
+  <a href="https://github.com/ichris007/ichris007/blob/main/images/Wechat.jpg" target="_blank">
+    <img src="https://img.shields.io/badge/WeChat-25D366?style=for-the-badge&logo=wechat&logoColor=white" height="30px"></a>
 </p>
 
 ---
