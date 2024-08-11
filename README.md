@@ -1,5 +1,4 @@
-### 不是程序猿，是一名猎头，致力做程序猿的职业经纪人 👋
-
+![](https://github.com/ichris007/ichris007/blob/main/images/github_banner.png)
 
 <p> 
   <a href="https://www.linkedin.com/in/chris-pei/" target="_blank">
