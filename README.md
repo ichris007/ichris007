@@ -43,6 +43,14 @@
 - 简历修改建议
 - 职场经验分享
 
+---
+
+- 一个手机摄影者，记录生活中的美好事物。
+- 喜欢写字，微信公众号主理人。
+- 践行公益，曾连续5年参与城市流动儿童公益项目。
+- 喜欢分享，帮助他人，猎头工作可以实现这些。
+- 喜欢看TED，读历史，追美剧，弄娃。
+
 <details>
  <summary>题外话<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
 
@@ -56,16 +64,9 @@
 
 互联网 | AI | 人工智能 | 机器人 | 具身智能 | AIGC | AI制药 | AI生物 | 电商 | 教育 | 本地生活 | 新零售 | 机器学习 | 深度学习 | 强化学习 | 计算机视觉 | 云计算 | 物联网 | 工业互联网 | 智能硬件 | 自动驾驶 | 无人车 | 无人机 | Artificial Intelligence | Robot | Robotics | NLP | Natural Language Processing | Machine Learning | ML | DL | Deep Learning | RL | Reinforcement Learning | Computer Vision | Cloud Computing | IoT | IIoT | Intelligent Hardware | Autonomous Vehicles | Self-driving Automobile | UAV | Drone | 算法 | Algorithm | AML | Python | Drug Discovery | AI Drug |
 </details>
+<details>
+ <summary>Visitors</summary>
+<a href="http://s05.flagcounter.com/more/AJU"><img src="https://s05.flagcounter.com/count2/AJU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
----
-
-- 一个手机摄影者，记录生活中的美好事物。
-- 喜欢写字，微信公众号主理人。
-- 践行公益，曾连续5年参与城市流动儿童公益项目。
-- 喜欢分享，帮助他人，猎头工作可以实现这些。
-- 喜欢看TED，读历史，追美剧，弄娃。
-
-
-
-<a href="http://s05.flagcounter.com/more/AJU"><img src="https://s05.flagcounter.com/count2/AJU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+![](https://komarev.com/ghpvc/?username=ichris&style=flat-square)
 
