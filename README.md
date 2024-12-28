@@ -1,4 +1,4 @@
-![](https://github.com/ichris007/ichris007/blob/main/images/github_banner.png)
+![](https://github.com/ichris007/ichris007/blob/main/images/banner_twitter_20241227.jpg)
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/chris-pei/" target="_blank">
