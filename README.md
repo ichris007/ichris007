@@ -1,4 +1,10 @@
-![](https://github.com/ichris007/ichris007/blob/main/images/banner_twitter_20241227.jpg)
+
+### 科叔是谁
+
+- 科技行业人才人才专家，14年高端猎头 + 4年HR管理，深耕互联网/人工智能/生命科学领域，同时关注AIoT/IIoT/工业互联网等领域。
+- 生产力系统达人，15年效率工具实践，体系化构建个人成长和生产力系统方案。
+- 与知名VC合作，帮助他们为portfolio寻访高管和核心人才。
+- 面试10000+人，覆盖中国、北美、东南亚，年薪范围25w-900w。
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/chris-pei/" target="_blank">
@@ -12,25 +18,11 @@
 </p>
 
 ---
-<h2 align="center">行业动态/信息/知识</h2>
+我自己构建的生产力系统——[Lifein](https://github.com/ichris007/Obsidian_Lifein)，欢迎品尝！
 
-[具身智能(Embodied AI)技术全面综述：感知、交互、规划、仿真、挑战、机遇](https://github.com/ichris007/ichris007/blob/main/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD(Embodied%20AI)%E6%8A%80%E6%9C%AF%E5%85%A8%E9%9D%A2%E7%BB%BC%E8%BF%B0%EF%BC%9A%E6%84%9F%E7%9F%A5%E3%80%81%E4%BA%A4%E4%BA%92%E3%80%81%E8%A7%84%E5%88%92%E3%80%81%E4%BB%BF%E7%9C%9F%E3%80%81%E6%8C%91%E6%88%98%E3%80%81%E6%9C%BA%E9%81%87.md)
-
-<h2 align="center">Awesome Robotics</h2>
-
-[**Awesome Robotics**](https://github.com/ichris007/Awesome-Robotics) is a continuously updated list of Software, Libraries, Papers, Conferences, Competitions and other resources for robotics.
+![首页_浅色](https://github.com/user-attachments/assets/65349a22-15da-45ee-9f75-c311838cfc2b)
 
 ---
-
-### 个人简介
-
-- 13年高端猎头 + 4年HR管理，曾创过几次业。专注在互联网/人工智能/生命科学领域，同时关注AIoT/IIoT/工业互联网等领域。
-- 长期为跨国企业/上市公司/独角兽/行业新锐公司等寻访高管和关键人才。
-- 与知名VC合作，帮助他们为portfolio寻访高管和核心人才。
-- 服务区域：中国、美国、加拿大和东南亚。
-
----
-
 - 一个手机摄影者，记录生活中的美好事物。
 - 喜欢写字，微信公众号主理人（城市猎人，ID: Hunterinlife）。
 - 践行公益，曾连续5年参与城市流动儿童公益项目。
