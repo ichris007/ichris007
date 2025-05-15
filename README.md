@@ -18,9 +18,9 @@
 </p>
 
 ---
-我自己构建的生产力系统——[Lifein](https://github.com/ichris007/Obsidian_Lifein)，欢迎品尝！
+我自己构建的生产力&人生管理系统——[Lifein](https://github.com/ichris007/Obsidian_Lifein)，欢迎品尝！
 
-![首页_浅色](https://github.com/user-attachments/assets/65349a22-15da-45ee-9f75-c311838cfc2b)
+![首页_深浅色对比](https://github.com/user-attachments/assets/db70a208-1e20-4dea-8cca-99d7b2cc1f69)
 
 ---
 - 一个手机摄影者，记录生活中的美好事物。
