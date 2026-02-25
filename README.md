@@ -2,8 +2,9 @@
 ### 科叔是谁
 
 - 15年高端猎头，深耕互联网/人工智能领域，面试10000+人，覆盖中国、北美、东南亚等，成功招聘年薪25w-900w人才。
-- 16年生产力系统研究者，打造高效工作和成长体系（免费示例库[Lifein](https://github.com/ichris007/Obsidian_Lifein) | 招聘管理系统[Lifein ATS](https://github.com/ichris007/Obsidian_Lifein_ATS)）。
-- 播客《职业星图》、公众号《城市猎人》主理人。
+- 16年+生产力系统研究者，打造高效工作和成长体系，Obsidian深度玩家。 （免费示例库[Lifein](https://github.com/ichris007/Obsidian_Lifein) | 招聘管理系统[Lifein ATS](https://github.com/ichris007/Obsidian_Lifein_ATS)）。
+- 年读 40+ 本书、实践知识视觉化，善于将知识转化为洞察。  
+- 「极简创业」、「书光同行」社群发起人；播客《职业星图》、公众号《城市猎人》主理人。
 - 帮职场人找准方向，助行动者高效成长。
 
 <p align="center"> 
