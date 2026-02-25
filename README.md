@@ -2,7 +2,7 @@
 ### 科叔是谁
 
 - 15年高端猎头，深耕互联网/人工智能领域，面试10000+人，覆盖中国、北美、东南亚等，成功招聘年薪25w-900w人才。
-- 16年生产力系统研究者，打造高效工作和成长体系（免费示例库[Lifein](https://github.com/ichris007/Obsidian_Lifein)）。
+- 16年生产力系统研究者，打造高效工作和成长体系（免费示例库[Lifein](https://github.com/ichris007/Obsidian_Lifein) | 招聘管理系统[Lifein ATS](https://github.com/ichris007/Obsidian_Lifein_ATS)）。
 - 播客《职业星图》、公众号《城市猎人》主理人。
 - 帮职场人找准方向，助行动者高效成长。
 
@@ -40,6 +40,19 @@
 我自己基于Obsidian构建的生产力&人生管理系统——[Lifein](https://github.com/ichris007/Obsidian_Lifein)，欢迎品尝！
 
 ![首页_深浅色对比](https://github.com/user-attachments/assets/db70a208-1e20-4dea-8cca-99d7b2cc1f69)
+
+
+#### Lifein ATS
+
+[Lifein ATS](https://github.com/ichris007/Obsidian_Lifein_ATS)是一套构建于 Obsidian、完全本地化的知识驱动型候选人管理系统。
+
+它依托 [Lifein](https://github.com/ichris007/Obsidian_Lifein) 人生管理架构，将传统招聘流程与知识管理理念深度融合，通过双向链接、动态查询、自动化模板与数据可视化能力，**打破信息孤岛，帮助猎头与招聘HR实现候选人资产沉淀与关系网络的长期复利。** 
+
+不同于传统ATS的线性流程逻辑，Lifein ATS 将“企业—职位—人才—流程”整合为统一的数据结构与关系网络，使信息可关联、可追溯、可扩展，实现招聘全周期的系统化管理。
+
+这是一套**高度模块化、强关联、可自动化、可自由定制**的招聘操作系统，使招聘不再只是流程执行，而成为可沉淀、可连接、可持续复利的人才资产经营行为。
+
+> Lifein ATS —— 让招聘数据，成为可复利的人才资产。
 
 ---
 - 一个手机摄影者，记录生活中的美好事物。
