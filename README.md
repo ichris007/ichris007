@@ -7,6 +7,8 @@
 - 「极简创业」、「书光同行」社群发起人；播客《职业星图》、公众号《城市猎人》主理人。
 - 帮职场人找准方向，助行动者高效成长。
 
+>Lifein 人生管理系统 | 科叔的 Obsidian 生产力与知识管理实践：https://lifein.vip/
+
 <p align="center"> 
   <a href="https://www.linkedin.com/in/chris-pei/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"></a>
