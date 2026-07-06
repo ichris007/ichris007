@@ -4,7 +4,7 @@
 - 15年高端猎头，深耕互联网/人工智能领域，面试10000+人，覆盖中国、北美、东南亚等，成功招聘年薪25w-900w人才。
 - 16年+生产力系统研究者，打造高效工作和成长体系，Obsidian深度玩家。 （免费示例库[Lifein](https://github.com/ichris007/Obsidian_Lifein) | 招聘管理系统[Lifein ATS](https://github.com/ichris007/Obsidian_Lifein_ATS)）。
 - 年读 40+ 本书、实践知识视觉化，善于将知识转化为洞察。  
-- 「极简创业」、「书光同行」社群发起人；播客《职业星图》、公众号&小红书《猎人科叔》主理人。
+- 「极简创业」、「书光同行」社群发起人；播客《职业星图》、全网自媒体《猎人科叔》主理人（公众号 & 小红书 & 即刻 & X.com）。
 - 帮职场人找准方向，助行动者高效成长。
 
 >Lifein 人生管理系统 | 科叔的 Obsidian 生产力与知识管理实践：https://lifein.vip/
@@ -59,22 +59,8 @@
 
 ---
 
-- 一个手机摄影者，记录生活中的美好事物。
-- 喜欢写字，微信公众号主理人（城市猎人，ID: Hunterinlife）。
-- 践行公益，曾连续5年参与城市流动儿童公益项目。
-- 喜欢分享，帮助他人，猎头工作可以实现这些。
-- 喜欢看TED，读历史，追美剧，弄娃。
-
 <details>
- <summary>题外话<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
-
-#### 题外话：
-
-    俗话说的好：“除了你的父母，猎头可能是最希望你成功的人”，猎头最大的资源就是人才和人脉网络，帮助你，也是在帮助我自己。
-
-    联系我时，请注明来自Github，你的需求将会被优先对接。期待与你的连结！
-
-#### 关键词
+ <summary>关键词<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
 
 互联网 | AI | 人工智能 | 机器人 | 具身智能 | AIGC | AI制药 | AI生物 | 电商 | 教育 | 本地生活 | 新零售 | 机器学习 | 深度学习 | 强化学习 | 计算机视觉 | 云计算 | 物联网 | 工业互联网 | 智能硬件 | 自动驾驶 | 无人车 | 无人机 | Artificial Intelligence | Robot | Robotics | NLP | Natural Language Processing | Machine Learning | ML | DL | Deep Learning | RL | Reinforcement Learning | Computer Vision | Cloud Computing | IoT | IIoT | Intelligent Hardware | Autonomous Vehicles | Self-driving Automobile | UAV | Drone | 算法 | Algorithm | AML | Python | Drug Discovery | AI Drug |
 </details>
